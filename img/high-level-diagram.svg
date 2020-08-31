@@ -114,11 +114,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="327.81644"
-     inkscape:cy="323.26455"
+     inkscape:cx="323.17359"
+     inkscape:cy="286.83597"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -136,7 +136,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -164,20 +164,7 @@
        y="460.82831"
        rx="10"
        ry="10" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4146"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(33.859823,246.04741)"><flowRegion
-         id="flowRegion4148"><rect
-           id="rect4150"
-           width="452.14285"
-           height="85.714287"
-           x="142.85715"
-           y="227.14285"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4152"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono'">sciota-server</flowPara></flowRoot>    <rect
+    <rect
        style="fill:#76c477;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4136-3"
        width="220.29543"
@@ -186,20 +173,7 @@
        y="878.07471"
        rx="10"
        ry="10" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4146-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-203.96655,657.42561)"><flowRegion
-         id="flowRegion4148-7"><rect
-           id="rect4150-5"
-           width="452.14285"
-           height="85.714287"
-           x="142.85715"
-           y="227.14285"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4152-3"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono'">sciota-firmware</flowPara></flowRoot>    <rect
+    <rect
        style="fill:#76c477;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4136-3-7"
        width="220.29543"
@@ -208,20 +182,7 @@
        y="876.85028"
        rx="10"
        ry="10" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4146-6-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(37.661134,656.14748)"><flowRegion
-         id="flowRegion4148-7-2"><rect
-           id="rect4150-5-0"
-           width="452.14285"
-           height="85.714287"
-           x="142.85715"
-           y="227.14285"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4152-3-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono'">sciota-dashboard</flowPara></flowRoot>    <rect
+    <rect
        style="fill:#76c477;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4136-3-3"
        width="220.29543"
@@ -230,20 +191,7 @@
        y="876.13599"
        rx="10"
        ry="10" />
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot4146-6-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(275.51827,655.43319)"><flowRegion
-         id="flowRegion4148-7-5"><rect
-           id="rect4150-5-9"
-           width="452.14285"
-           height="85.714287"
-           x="142.85715"
-           y="227.14285"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono';text-align:center;text-anchor:middle" /></flowRegion><flowPara
-         id="flowPara4152-3-22"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono'">sciota-cli</flowPara></flowRoot>    <path
+    <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
        d="m 145.50702,847.5475 0,-302.85715"
        id="path4297"
@@ -550,5 +498,53 @@
       <g
          id="g5516" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="325.24457"
+       y="494.16095"
+       id="text4538-5-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4540-3-6"
+         x="325.24457"
+         y="494.16095"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono'">sciota-server</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.02076"
+       y="904.53906"
+       id="text4538-5-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4540-3-5"
+         x="75.02076"
+         y="904.53906"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono'">sciota-firmware</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="310.65237"
+       y="903.26093"
+       id="text4538-5-35"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4540-3-62"
+         x="310.65237"
+         y="903.26093"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono'">sciota-dashboard</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="584.48608"
+       y="902.54663"
+       id="text4538-5-91"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4540-3-2"
+         x="584.48608"
+         y="902.54663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'WenQuanYi Micro Hei Mono';-inkscape-font-specification:'WenQuanYi Micro Hei Mono'">sciota-cli</tspan></text>
   </g>
 </svg>
