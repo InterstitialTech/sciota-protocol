@@ -1,0 +1,26 @@
+[package]
+name = "sciota-protocal"
+version = "0.1.0"
+authors = ["Ben Burdette <bburdette@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+description = "data structures for communicating with sciota-server"
+homepage = "https://github.com/interstitial/sciota-protocol"
+repository = "https://github.com/interstitial/sciota-protocol.git"
+readme = "../../README.md"
+keywords = []
+
+license = "GPL3"
+include = [ "src/**/*", 
+            "Cargo.toml", 
+            "Cargo.lock",
+            "../../README.md",
+            "../../LICENSE"]
+
+[dependencies]
+serde_json = "1.0"
+serde = "1.0"
+serde_derive = "1.0.27"
+
